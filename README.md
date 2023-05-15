@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A backend developer from Odessa</h3>
 
-- 🔭 I’m currently working on [**StudyCobra**](https://github.com/iyasha/studycobra)
-
-- 👨‍💻 All of my projects are available at my [github](https://github.com/iYasha?tab=repositories)
-
-- 📝 I regularly write articles on [blog.simantiev.com](https://blog.simantiev.com)
-
 - 📫 How to reach me **ivan@simantiev.com**
 
 <h3 align="left">Languages and Tools:</h3>
