@@ -2,7 +2,7 @@
 
 <h3>Tech Lead | Python Developer | Educator | DevOps Enthusiast</h3>
 
-<p>Hello! I’m Ivan, a Python developer and <strong>Tech/Team Lead</strong> based in <strong>Odesa, Ukraine</strong>. With over 6 years of experience in Python development and 3.5 years in teaching, I’m passionate about building resilient software and sharing my knowledge with others.</p>
+<p>Hello! I’m Ivan, a Python developer and Tech/Team Lead based in <strong>Odesa, Ukraine</strong>. With over 6 years of experience in Python development and 3.5 years in teaching, I’m passionate about building resilient software and sharing my knowledge with others.</p>
 
 <h4>💼 My Work & Interests:</h4>
 <ul>
